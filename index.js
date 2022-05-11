@@ -1,2 +1,4 @@
-alert('hola amigos');
-console.log('editado')
+function hola=()=>{
+return(
+  <h1>hola</h1>
+)}
